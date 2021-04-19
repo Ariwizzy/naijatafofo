@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900175492710",
+    "project_id": "superlegit-f2e0a",
+    "storage_bucket": "superlegit-f2e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900175492710:android:26653f168d5032d1d2dfa7",
+        "android_client_info": {
+          "package_name": "com.ogdev.superlegit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900175492710-db58mcud95tmua26jd67c8tqr2k8romv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPOoBwqpWP6s_4kN7_HaVyHdJa0tyOH6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900175492710-db58mcud95tmua26jd67c8tqr2k8romv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
